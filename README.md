@@ -35,3 +35,5 @@ rm -f goodbye.txt
 will put `goodbye beth` in `goodbye.txt`.
 
 All workflows use the same set of Snakemake rules in `Snakefile`.
+
+See also: https://github.com/charlesreid1/2019-snakemake-cli
